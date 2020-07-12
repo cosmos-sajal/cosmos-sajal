@@ -1,4 +1,5 @@
 # Sajal Sharma (AKA Cosmos) - Software Engineer & Enthusiast!
+
 _Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
 
 <a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank"><img width="20" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/linkedin.png"></a>
@@ -8,8 +9,9 @@ _Life is like quick sort, it will put you in your correct place in some nth pass
 
 ---
 
-Skills I acquired .. :computer:
+Skills I acquired ... :computer:
 --
+
 
 - Backend • Python • Django • MySQL • PostgreSQL • Asynchronous
 - Firebase • Firebase Auth • Firebase RealDB • Firebase Storage • Firebase Cloud Functions
@@ -19,7 +21,13 @@ Skills I acquired .. :computer:
 - Functional Programming • OOPS • Database Arch • High Level System Arch
 - Authentication + Authorisations • Sentry/Airbrake • New Relic/Appsignal • nginx
 - Scalyr (Request-Response Loggings) • ECR • ALB • Dockerfile • docker-compose
+---
 
+Places I worked at ... :office:
+--
+
+- [FloBiz (Formerly Koinex)](https://flobiz.in/)
+- [Practo](https://www.practo.com/)
 
 <!--
 **cosmos-sajal/cosmos-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
