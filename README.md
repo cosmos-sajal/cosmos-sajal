@@ -1,6 +1,8 @@
 ### Sajal Sharma (AKA Cosmos)
 _Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
 
+<a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank"><img src="/linkedin_thumbnail.png" style="max-width: 6%;"></a>
+
 ---
 
 
