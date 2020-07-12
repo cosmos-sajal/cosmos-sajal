@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sajal Sharma (AKA Cosmos)
+_Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
+
+---
+
 
 <!--
 **cosmos-sajal/cosmos-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
