@@ -8,6 +8,17 @@ _Life is like quick sort, it will put you in your correct place in some nth pass
 
 ---
 
+#### Skills I acquired .. :computer:
+--
+- Backend • Python • Django • MySQL • PostgreSQL • Asynchronous
+- Firebase • Firebase Auth • Firebase RealDB • Firebase Storage • Firebase Cloud Functions
+- Celery • Celery Beat • RabbitMQ • Docker • Redis • SQS • S3
+- Data Structures + Algo • Tech Writer • Mentor • Lead • Queuing System
+- Loggings • Startup Enthusiast • Deployments • AWS • SLA • Elixir
+- Functional Programming • OOPS • Database Arch • High Level System Arch
+- Authentication + Authorisations • Sentry/Airbrake • New Relic/Appsignal • nginx
+- Scalyr (Request-Response Loggings) • ECR • ALB • Dockerfile • docker-compose
+
 
 <!--
 **cosmos-sajal/cosmos-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
