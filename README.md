@@ -2,7 +2,7 @@
 _Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
 
 <a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank"><img width="20" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/linkedin.png"></a>
-<a href="https://medium.com/@cosmos_sajal" target="_blank"><img width="30" src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png"></a>
+<a href="https://medium.com/@cosmos_sajal" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/medium.png"></a>
 ---
 
 
