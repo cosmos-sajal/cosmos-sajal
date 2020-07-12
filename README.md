@@ -4,6 +4,7 @@ _Life is like quick sort, it will put you in your correct place in some nth pass
 <a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank"><img width="20" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/linkedin.png"></a>
 <a href="https://medium.com/@cosmos_sajal" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/medium.png"></a>
 <a href="https://twitter.com/cosmos_sajal" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/twitter.jpg"></a>
+<a href="https://www.freecodecamp.org/news/author/sajal/" target="_blank"><img width="30" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"></a>
 
 ---
 
