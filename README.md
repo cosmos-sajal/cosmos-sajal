@@ -26,8 +26,9 @@ Skills I acquired ... :computer:
 Places I worked at ... :office:
 --
 
-- [FloBiz (Formerly Koinex)](https://flobiz.in/)
-- [Practo](https://www.practo.com/)
+- Engineering Lead @ [FloBiz (Formerly Koinex)](https://flobiz.in/)
+- Senior Software Engineer @ [Practo](https://www.practo.com/)
+- Software Engineer @ [Practo](https://www.practo.com/)
 
 <!--
 **cosmos-sajal/cosmos-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
