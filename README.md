@@ -30,6 +30,12 @@ Places I worked at ... :office:
 - Senior Software Engineer @ [Practo](https://www.practo.com/)
 - Software Engineer @ [Practo](https://www.practo.com/)
 
+I studied at ... :school:
+--
+
+- Masters of Technology in CSE @ [IIIT Hyderabad](https://www.iiit.ac.in/)
+- Bachelor of Technology in IT @ [MAIT (GGSIPU)](https://mait.ac.in/)
+
 <!--
 **cosmos-sajal/cosmos-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
