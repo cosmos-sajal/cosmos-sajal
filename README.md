@@ -30,6 +30,8 @@ Places I worked at ... :office:
 - Senior Software Engineer @ [Practo](https://www.practo.com/)
 - Software Engineer @ [Practo](https://www.practo.com/)
 
+---
+
 I studied at ... :school:
 --
 
