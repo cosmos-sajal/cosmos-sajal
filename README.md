@@ -3,7 +3,7 @@ _Life is like quick sort, it will put you in your correct place in some nth pass
 
 <a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank"><img width="20" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/linkedin.png"></a>
 <a href="https://medium.com/@cosmos_sajal" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/medium.png"></a>
-<a href="https://twitter.com/cosmos_sajal" target="_blank"><img width="30" src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg"></a>
+<a href="https://twitter.com/cosmos_sajal" target="_blank"><img width="30" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/twitter.jpg"></a>
 
 ---
 
