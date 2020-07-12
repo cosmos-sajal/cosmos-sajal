@@ -1,4 +1,4 @@
-### Sajal Sharma (AKA Cosmos)
+### Sajal Sharma (AKA Cosmos) - Software Engineer & Enthusiast!
 _Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
 
 <a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank"><img width="20" src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/images/linkedin.png"></a>
