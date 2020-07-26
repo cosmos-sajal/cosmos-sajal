@@ -1,4 +1,4 @@
-<img src="/bg.jpeg"></img>
+<img src="https://raw.githubusercontent.com/cosmos-sajal/cosmos-sajal/master/bg.jpeg"></img>
 
 _Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
 
