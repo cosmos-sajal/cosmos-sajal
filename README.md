@@ -2,12 +2,7 @@
 
 _Life is like quick sort, it will put you in your correct place in some nth pass, so wait till you have been chosen as the pivot._
 
-<ul>
-  <li><a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank">LinkedIn</a></li>
-  <li><a href="https://medium.com/@cosmos_sajal" target="_blank">Medium</a></li>
-  <li><a href="https://twitter.com/cosmos_sajal" target="_blank">Twitter</a></li>
-  <li><a href="https://www.freecodecamp.org/news/author/sajal/" target="_blank">Freecodecamp</a></li>
-</ul>
+<a href="https://www.linkedin.com/in/sajalsarwar/" target="_blank">LinkedIn</a> • <a href="https://medium.com/@cosmos_sajal" target="_blank">Medium</a> • <a href="https://twitter.com/cosmos_sajal" target="_blank">Twitter</a> • <a href="https://www.freecodecamp.org/news/author/sajal/" target="_blank">Freecodecamp</a>
 
 ---
 
