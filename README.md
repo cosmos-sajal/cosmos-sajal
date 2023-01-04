@@ -22,7 +22,7 @@ Skills I acquired ... :computer:
 
 Places I worked at ... :office:
 --
-
+- Architect @ [Dunzo](https://www.dunzo.com/)
 - Founding Member @ [Orange Health](https://orangehealth.in/)
 - Engineering Lead @ [FloBiz (Formerly Koinex)](https://flobiz.in/)
 - Senior Software Engineer @ [Practo](https://www.practo.com/)
